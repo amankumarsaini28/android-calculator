@@ -15,6 +15,7 @@
         android:fontFamily="@font/fira_mono_medium"
         android:gravity="end|bottom"
         android:padding="10dp"
+        android:ellipsize="marquee"
         android:text="@string/calculator_default_text"
         android:textSize="48sp" />
 
